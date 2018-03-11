@@ -1,0 +1,60 @@
+body{
+    background-color:black;
+}
+
+#instructions {
+    background-color:black;
+    font:italic;
+    color:gold;
+    text-align:center;
+    position:relative;
+    margin-top: 120px;
+}
+      
+#HangmanDiv{
+    margin-left:0px;
+    margin-top:100px;
+    border: 1px red solid;
+    float:left;
+}
+
+#game_text{
+    text-align:center;
+    color:gold;
+    margin-top:100px;
+    height:620px;
+    float:right;
+    border:1px red solid;
+
+}
+
+#Guess_Word{
+    color:gold;
+    border:1px red solid;
+    margin-top: 120px;
+    text-decoration:underline;
+    height:200px;
+}
+
+#Chances_Remaining{
+    color:gold;
+    border:1px red solid;
+    height:100px;
+}
+
+#Letters_Guessed{
+    color:gold;
+    border:1px red solid;
+    height:180px;
+}
+
+#N64_Console{
+    margin-left:50px;
+    padding:20px;
+}
+
+#Hangman{
+    margin-left:160px;
+    padding:20px;
+
+}
