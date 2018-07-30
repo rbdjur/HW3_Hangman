@@ -1,1 +1,1 @@
-# HW3_Hangman
+# Javascript-Hangman
